@@ -1,0 +1,1 @@
+This is a repo for keeping solutions to the Eloquent Javascript book's exercises.
